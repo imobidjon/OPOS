@@ -25,7 +25,7 @@ export default function Features() {
                 mumkin
               </h2>
               <p className="paragraph text-gray-500 dark:text-gray-400">
-                Platformada siz o'zingiz hohlagan va sizga qulay bo'lgan usulda sozlab olishingiz va yangi chiqgan maxsulotlaringizni savdoga osongina qo'shasiz!
+                Platformada siz o`zingiz hohlagan va sizga qulay bo`lgan usulda sozlab olishingiz va yangi chiqgan maxsulotlaringizni savdoga osongina qo`shasiz!
               </p>
             </div>
           </div>
@@ -35,7 +35,7 @@ export default function Features() {
                 Biznesingiz <span style={{ color: "#e57100" }}>statistikasini</span> osongina bilishingiz mumkin
               </h2>
               <p className="paragraph text-gray-500 dark:text-gray-400">
-                Restaurantingiz haqida hisobotlarni olish imkoniyati - soatlik, kunlik, oylik, yillik hisobotlarni ko'rishingiz mumkin!
+                Restaurantingiz haqida hisobotlarni olish imkoniyati - soatlik, kunlik, oylik, yillik hisobotlarni ko`rishingiz mumkin!
               </p>
             </div>
             <div className="w-full">

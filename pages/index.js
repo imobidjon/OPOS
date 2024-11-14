@@ -44,12 +44,12 @@ export default function Home() {
               raqamlashtiring.
             </h1>
             <p className="max-w-xl pt-5 mx-auto text-lg text-gray-600 dark:text-gray-400 md:text-lg">
-              "O
-              <span style={{ color: "#e57100" }}>POS</span>" restaurant va
+            &quot;O
+              <span style={{ color: "#e57100" }}>POS</span>&quot; restaurant va
               fast-food biznesingizni oson va qulay raqamlashtirishga yordam
               beradi. Bu <span style={{ color: "#e57100" }}>platforma</span>  orqali siz mijozlaringizga qulaylik
-              tug'durasiz va kunlik, oylik hisobotlarni osonlikcha olishingiz
-              mumkin. <span style={{ color: "#e57100" }}>Hoziroq sinab ko'ring!!!</span> 
+              tug`dirasiz va kunlik, oylik hisobotlarni osonlikcha olishingiz
+              mumkin. <span style={{ color: "#e57100" }}>Hoziroq sinab ko`ring!!!</span> 
             </p>
             <div className="mt-6 text-center md:ml-6">
               <Link href="404">
@@ -58,7 +58,7 @@ export default function Home() {
                   aria-label="learn more"
                 >
                   <span className="flex justify-center text-black font-bold">
-                    SINAB KO'RISH
+                    SINAB KO`RISH
                   </span>
                 </a>
               </Link>

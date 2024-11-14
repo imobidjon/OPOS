@@ -66,17 +66,11 @@ export default function Home() {
           </div>
           <div className="relative w-full py-10 mx-auto text-center md:py-32 md:my-12 md:w-10/12">
             <div className="relative z-10">
-              <a
-                target="_blank"
-                rel="noreferrer"
-                href="https://unsplash.com/photos/e9TrFZZ72DQ"
-              >
                 <img
                   className="transition duration-700 shadow-xl rounded-xl ring-1 ring-black ring-opacity-5 hover:transform hover:scale-105"
                   src="/images/OPOS.png"
                   alt="Placeholder Image"
                 />
-              </a>
             </div>
             <p className="z-10 my-8 text-sm font-medium text-gray-500">
               Maybe we&apos;re bringing brightness too?

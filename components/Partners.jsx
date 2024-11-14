@@ -10,12 +10,12 @@ export default function Sponsors() {
         </p>
         <div className="flex justify-center gap-10 ">
           <div style={{ width: "150px", height: "150px" }}>
-            <a target="_blank" href="https://www.instagram.com/otagozal_icecream/">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/otagozal_icecream/">
               <img src="/images/otagozal.jpg" style={{ borderRadius: "50%" }} />
             </a>
           </div>
           <div style={{ width: "150px", height: "150px" }}>
-            <a target="_blank" href="https://www.instagram.com/otagozal_icecream/">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/otagozal_icecream/">
               <img src="/images/icode.jpg" style={{ borderRadius: "50%" }} />
             </a>
           </div>
